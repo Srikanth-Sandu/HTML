@@ -1,0 +1,43 @@
+#navbar li{
+    list-style: none;
+    display:inline-block;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;color: rgb(10, 9, 9);
+    background-color: aqua;
+    padding:0px 5px;
+    margin:5px 50px;
+}
+#navbar{
+    background-color: black;
+}
+.b li{
+    list-style: none;
+    display:inline-block;
+    text-align: justify;
+}
+.b{
+    border:1px solid;
+}
+#b1{
+    width:50%;
+}
+.c{
+    margin:auto;
+}
+.c li{
+    border:1px solid;
+    border-radius: 10px;
+    width:200px;
+    height:250px;
+    display: inline-block;
+    box-sizing: border-box;
+    overflow: hidden;
+    text-align: center;
+    margin:auto
+
+}
+.d li{
+    list-style:none;
+    display:inline-block;
+    margin:1px solid;
+}
